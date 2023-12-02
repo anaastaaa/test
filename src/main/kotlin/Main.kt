@@ -1,5 +1,6 @@
 fun main(args: Array<String>) {
     println("Hello World!")
     println("heyheyhey")
-    var l:Int
+    val l:Int=1234
+    val s=l/4
 }
